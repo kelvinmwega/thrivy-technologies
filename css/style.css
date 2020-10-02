@@ -9,7 +9,7 @@ body {
     margin: 0;
     font-size: 100%;
     background: #fff;
-	font-family: 'Cabin', sans-serif;
+	 font-family: 'David Libre', serif;
 }
 
 html {
@@ -22,7 +22,7 @@ body a {
     -moz-transition: 0.5s all;
     -o-transition: 0.5s all;
     -ms-transition: 0.5s all;
-	font-family: 'Cabin', sans-serif;
+	 font-family: 'David Libre', serif;
 }
 
 body img {
